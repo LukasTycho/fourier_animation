@@ -1,6 +1,4 @@
-# A Visualisation of the Fourier-Systhesis
-
-*readme for fourier_animation.py*
+# A Visualisation of the Fourier-Synthesis
 
 This script is written in Python 3.8.8 and uses the matplotlib and numpy modules.
 
