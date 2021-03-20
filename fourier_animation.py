@@ -266,7 +266,7 @@ if __name__ == "__main__":
                     c.append(-1j/i)
         elif shape == "tri":
             c = []
-            for i in range(args.o + 1):
+            for i in range(args.n + 1):
                 if i % 2 == 0:
                     c.append(0)
                 else:
